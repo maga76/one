@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.bgimgHERRO{
+    background-image: url(/522e6a5f380cba7232041d621d835a77aaeaf072.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 646px;
+    margin-top: 10px;
+}
+.bloo{
+    width: 416px;
+    height: 200px;
+    background-color: #3559C7;
+    margin-left: auto;
+    margin-top: 40px;
+}
+.card{
+    width: 300px;
+    height: 197px;
+    border: 2px solid gray;
+}
+.bagraund{
+    background-image: url(/bagraund-img2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 850px;
+    height: 600px;
+    margin-top: 150px;
+    margin-left: 114px;
+}
+.blu{
+    width: 488px;
+    height: 523px;
+    background-color: #2947A9;
+    margin-left: 726px;
+    position: absolute;
+    top: 1270px;
+}
+.carde{
+    width: 271px;
+    height: 181px;
+    background-color: #FFFFFF;
+}
+.bgimgh{
+    background-image: url(/1234.jpg);
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+}
+.Gap{
+    color: #C2C7D6;
+    margin-top: 88px;
+    margin-left: 112px;
+}
+.card1{
+    width: 384px;
+    height: 247px;
+}
